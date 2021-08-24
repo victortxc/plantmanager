@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img alt="PlantManagerPreview" src="assets//plantmanager-preview.png">
+  <img alt="PlantManagerPreview" src="assets/plantmanager-preview.png">
 </div>
 
 ---
